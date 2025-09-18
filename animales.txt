@@ -11,3 +11,6 @@ Cerdo
 Borrego
 Cabra
 Conejo
+araña
+mosquito
+escarabajo
