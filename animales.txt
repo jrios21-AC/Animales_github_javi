@@ -11,3 +11,7 @@ Cerdo
 Borrego
 Cabra
 Conejo
+
+
+Dragón de Comodo
+Cocodrilo
